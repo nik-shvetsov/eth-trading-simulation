@@ -1,2 +1,2 @@
-Run *mainEthSim.py* script to run simulation. Initial parameters can be changed in Simulation preparation code block. Script requirments are in requirements.txt file.
+Run *mainEthSim.py* script to run simulation. Initial parameters can be changed in Simulation preparation code block. Script requirments are in *requirements.txt* file.
 To start simulation with >10 nodes use no_block version.
